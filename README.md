@@ -1,3 +1,7 @@
+### This code is associated with the paper from Juavinett et al., "Chronically implanted Neuropixels probes enable high-yield recordings in freely moving mice". eLife, 2019. http://dx.doi.org/10.7554/eLife.47188
+
+
+
 # Neuropixels AMIE implant for chronic recordings in freely moving mice
 (https://www.biorxiv.org/content/early/2018/09/05/406074)
 
